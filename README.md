@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **IrinaConstant/IrinaConstant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### :airplane: :rocket: :helicopter: I've worked as the structural stress engineer for 6 years
